@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    background-color: #B22222;
+    color: rgb(70, 8, 8);
+    font-size: 3em;
+    text-transform: uppercase;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 900;
+    font-style: oblique;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    margin-left: 60px;
+    margin-right: 80px;
+    padding: 30px;
+    text-align: center;
+    letter-spacing: 50px;
+    text-shadow: 20px 10px 5px black, 3px 3px 50px white;
+    
+    
+
+}
+
+main p{
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 40px;
+
+    line-height: 2em;
+    text-indent: 5em;
+    text-align: justify;
+}
